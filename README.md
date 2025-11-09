@@ -19,7 +19,7 @@ Retail: 220 staff (e-commerce, in-stadium retail operations).
 Medical: 6 staff (doctors, physios).
 Coaching & Performance: 35 staff (coaches, data analysts, training staff).
 
-### Assignment Requirements 
+# Assignment Requirements 
 ## (P1 of the assignment is a write-up that will not be stored here. I only show these reqs so that you better understand what is required of the network)
 
 Introduction (5%):
